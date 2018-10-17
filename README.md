@@ -35,6 +35,8 @@ conda install tensorflow
 
 conda install -c conda-forge tqdm
 
+conda install -c conda-forge keras
+
 conda install pytictoc -c ecf
 
 conda update --all
