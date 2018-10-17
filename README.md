@@ -16,6 +16,8 @@ __Instalación de librerías__
 
 conda create -n py36 python=3.6 anaconda
 
+![](https://drive.google.com/open?id=15VkJLadSJNcRi_edFhtFt7o5TbqBDw04Rt4G5CLT3LI)
+
 conda activate py36
 
 conda install -c anaconda git jupyter numpy matplotlib cython scikit-image
