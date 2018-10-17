@@ -3,7 +3,7 @@ __Taller de Deep Learning__
 Instrucciones de instalación de programas y librerías para el taller de Deep Learning. CICATA Qro. 2018.
 
 
-*Antes de comenzar, reponde la siguiente encuesta por favor: https://goo.gl/forms/PrqKqTbNFRtNh1zg2.
+Antes de comenzar, reponde la siguiente encuesta por favor: https://goo.gl/forms/PrqKqTbNFRtNh1zg2.
 
 
 
