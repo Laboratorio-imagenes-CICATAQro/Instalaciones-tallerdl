@@ -16,7 +16,9 @@ __Instalación de librerías__
 
 conda create -n py36 python=3.6 anaconda
 
+
 ![ima001](https://docs.google.com/drawings/d/15VkJLadSJNcRi_edFhtFt7o5TbqBDw04Rt4G5CLT3LI/edit?usp=sharing)
+
 
 conda activate py36
 
