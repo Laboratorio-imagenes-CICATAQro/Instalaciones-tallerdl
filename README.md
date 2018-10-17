@@ -2,7 +2,9 @@ __Taller de Deep Learning__
 
 Instrucciones de instalación de programas y librerías para el taller de Deep Learning. CICATA Qro. 2018.
 
-Antes de comenzar, llena la siguiente encuesta por favor: https://goo.gl/forms/PrqKqTbNFRtNh1zg2.
+
+*Antes de comenzar, reponde la siguiente encuesta por favor: https://goo.gl/forms/PrqKqTbNFRtNh1zg2.
+
 
 
 Aunque tendremos disponibles computadoras de trabajo, te sugerimos traer tu laptop con las siguientes instalaciones:
@@ -10,6 +12,7 @@ Aunque tendremos disponibles computadoras de trabajo, te sugerimos traer tu lapt
 1) Anaconda con Python 3.4+ (https://www.anaconda.com/download/).
 
 2) También te recomendamos activar una cuenta en Github (github.com) y traer tu usuario y contraseña.
+
 
 
 __Instalación de librerías__
