@@ -57,7 +57,7 @@ import cv2
 
 cv2.__version__
 
-![ima003](https://docs.google.com/drawings/d/e/2PACX-1vSeZYvCdT1r0aTybL4pf_IA1frawKi_94KIVfjzFdAoDA4LfHr4vXD2VqHjT0aT1yzWhV9jS2rtE45X/pub?w=380&h=155)
+![ima003](https://docs.google.com/drawings/d/e/2PACX-1vSeZYvCdT1r0aTybL4pf_IA1frawKi_94KIVfjzFdAoDA4LfHr4vXD2VqHjT0aT1yzWhV9jS2rtE45X/pub?w=1362&h=549)
 
 import tensorflow as tf
 
