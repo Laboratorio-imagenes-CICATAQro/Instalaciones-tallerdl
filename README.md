@@ -22,7 +22,7 @@ conda activate py36
 
 conda install -c anaconda git jupyter numpy matplotlib cython scikit-image
 
-![ima002](https://docs.google.com/drawings/d/e/2PACX-1vQS5Z2_WR9oDPHOz5g5f0bHot8UpA6meyWwU20HxxsC-h3dDxY4N-o8jRdYI1i8VAbyrThnMMmpwnFx/pub?w=405&h=124)
+![ima002](https://docs.google.com/drawings/d/e/2PACX-1vQS5Z2_WR9oDPHOz5g5f0bHot8UpA6meyWwU20HxxsC-h3dDxY4N-o8jRdYI1i8VAbyrThnMMmpwnFx/pub?w=1012&h=307)
 
 conda install anaconda-client
 
