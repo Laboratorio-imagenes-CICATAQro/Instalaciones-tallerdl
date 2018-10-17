@@ -12,7 +12,7 @@ Aunque tendremos disponibles computadoras de trabajo, te sugerimos traer tu lapt
 2) También te recomendamos activar una cuenta en Github (github.com) y traer tu usuario y contraseña.
 
 
-__Instalación de librerías:
+__Instalación de librerías__
 
 conda create -n py36 python=3.6 anaconda
 
