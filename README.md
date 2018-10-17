@@ -76,11 +76,9 @@ Desde tu ventana de comandos de Anaconda, ejecuta la siguiente línea:
 
 git clone https://github.com/Laboratorio-imagenes-CICATAQro/Instalaciones-tallerdl.git
 
-Anota la dirección en la que clonaste el directorio de "Instalaciones-tallerdl".
+cd Instalaciones-tallerdl
 
-Abre el directorio en donde clonaste el repositorio con el comando "cd", como se muestra en la siguiente imagen.
-
-![cd](https://github.com/SandraFB/instalaciones/blob/master/imagen14.jpg)
+![cd](https://docs.google.com/drawings/d/e/2PACX-1vROKmNJ80Rpu6_QtJnSLett-or3dWASUnUZyzi6NaHVciiwOcIy-AkujKJx1DgKizZVWnRx6JtDPAS7/pub?w=933&h=380)
 
 
 
@@ -93,37 +91,19 @@ activate py36
 Cuando necesites desactivar el entorno, únicamente escribe "deactivate". Considera que deberás haber trabajado desde "Anaconda prompt", es decir, desde el entorno "base".
 
 
-
-
 ## Jupyter notebook
 
 Escribe en tu línea de comandos: 
 
 jupyter notebook
 
-![Jupyter](https://github.com/SandraFB/instalaciones/blob/master/imagen15.jpg)
+![Jupyter](https://docs.google.com/drawings/d/e/2PACX-1vS8k7jfRjA8eNm0iwOlIgyTjQto66Rm4nUM4lrLJUtFeEeLpvTPVqfO4BrNy1r0fNez5-u3Qc1Fug8F/pub?w=957&h=540)
 
-Desde Jupyter Notebook, crearemos un nuevo documento:
+Desde Jupyter Notebook, ejecutaremos algunas prácticas en Python
 
-![Nuevo](https://github.com/SandraFB/instalaciones/blob/master/imagen3.jpg)
+![Jupyter2](https://docs.google.com/drawings/d/e/2PACX-1vRXxxFsOCAEPAyk1ZIx1Xhz72aQEYnlrebVRZrf7n3ZNat_07EM3r_EfCzCqNnUVMpg8oiYp50QFhhl/pub?w=1040&h=377)
 
-![Nuevo Notebook](https://github.com/SandraFB/instalaciones/blob/master/imagen6.jpg)
-
-3. Prácticas en Python
-
-A forma de taller introductorio para Python, puedes ejecutar las prácticas 1, 2 y 3 en Jupyter Notebook.
-
-Primero selecciona la práctica a realizar y abre el enlace.
-
-
-![Selección](https://github.com/SandraFB/instalaciones/blob/master/imagen9.jpg)
-
-
-Después, ejecuta el código línea por línea y observa el resultado.
-
-
-![Ejecución](https://github.com/SandraFB/instalaciones/blob/master/imagen10.jpg)
-
+![Jupyter3](https://docs.google.com/drawings/d/e/2PACX-1vSjzhLZYMmdA5lQy2PZrRkNUVmjIAyQp8DgzQzwg_aVGqA6CWSJGxmxiHoNSGboxbw0mM3_x_RuwPi-/pub?w=957&h=446)
 
 
 ## Referencias
