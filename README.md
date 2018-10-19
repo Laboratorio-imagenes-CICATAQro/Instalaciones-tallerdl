@@ -31,6 +31,8 @@ conda install anaconda-client
 
 pip install opencv-contrib-python
 
+pip install ttictoc
+
 conda install tensorflow 
 
 conda install -c conda-forge tqdm
