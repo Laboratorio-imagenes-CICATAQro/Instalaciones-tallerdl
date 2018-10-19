@@ -43,6 +43,10 @@ conda install pytictoc -c ecf
 
 conda install -c cogsci pygame
 
+o
+
+pip install pygame
+
 conda install -c anaconda pillow
 
 conda update --all
