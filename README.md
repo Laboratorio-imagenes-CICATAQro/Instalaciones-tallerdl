@@ -39,6 +39,10 @@ conda install -c conda-forge keras
 
 conda install pytictoc -c ecf
 
+conda install -c tlatorre pygame=1.9.2
+
+conda install -c anaconda pillow
+
 conda update --all
 
 
